@@ -1,2 +1,2 @@
 # airbnb-price-prediction
-Machine learning project to predict Airbnb listing prices
+Machine learning project to predict Airbnb listing prices.
